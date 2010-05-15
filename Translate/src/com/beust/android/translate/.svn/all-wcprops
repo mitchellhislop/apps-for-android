@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/136/trunk/Translate/src/com/beust/android/translate
+END
+HistoryRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/18/trunk/Translate/src/com/beust/android/translate/HistoryRecord.java
+END
+Maps.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/107/trunk/Translate/src/com/beust/android/translate/Maps.java
+END
+History.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/130/trunk/Translate/src/com/beust/android/translate/History.java
+END
+R.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/131/trunk/Translate/src/com/beust/android/translate/R.java
+END
+LanguageDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/130/trunk/Translate/src/com/beust/android/translate/LanguageDialog.java
+END
+Entities.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/107/trunk/Translate/src/com/beust/android/translate/Entities.java
+END
+Languages.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/136/trunk/Translate/src/com/beust/android/translate/Languages.java
+END
+TranslateActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/130/trunk/Translate/src/com/beust/android/translate/TranslateActivity.java
+END
+AboutDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/18/trunk/Translate/src/com/beust/android/translate/AboutDialog.java
+END
+Translate.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/65/trunk/Translate/src/com/beust/android/translate/Translate.java
+END
+ITranslate.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/66/trunk/Translate/src/com/beust/android/translate/ITranslate.aidl
+END
+HistoryActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/131/trunk/Translate/src/com/beust/android/translate/HistoryActivity.java
+END
+Lists.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/107/trunk/Translate/src/com/beust/android/translate/Lists.java
+END
+TranslateService.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/66/trunk/Translate/src/com/beust/android/translate/TranslateService.java
+END

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/*
+ * Copyright (c) 2008 Google Inc.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+-->
+
+<!-- LANDSCAPE MODE layout for LolcatActivity. -->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:gravity="top"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <!-- Main image -->
+    <com.android.lolcat.LolcatView android:id="@+id/main_image"
+               android:layout_height="fill_parent"
+               android:layout_width="1dip"
+               android:layout_weight="30"
+               android:scaleType="centerInside"
+               android:padding="10dip"
+               android:background="@drawable/photo_border"
+               />
+
+    <!-- Control buttons -->
+    <LinearLayout 
+        android:orientation="vertical"
+        android:layout_width="1dip"
+        android:layout_weight="11"
+        android:layout_height="fill_parent"
+        android:layout_marginTop="4dip"
+        android:layout_marginLeft="-4dip"
+        android:layout_marginRight="-4dip"
+        >
+        <Button android:id="@+id/pick_button"
+            android:text="@string/lolcat_pick"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:singleLine="true"
+            />
+
+        <Button android:id="@+id/caption_button"
+            android:text="@string/lolcat_add_captions"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:singleLine="true"
+            />
+
+        <Button android:id="@+id/save_button"
+            android:text="@string/lolcat_save"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:singleLine="true"
+            />
+
+        <!-- Placeholder view to separate the upper and lower buttons -->
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dip"
+            android:layout_weight="1" />
+
+        <Button android:id="@+id/clear_caption_button"
+            android:text="@string/lolcat_clear_caption"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:singleLine="true"
+            />
+
+        <Button android:id="@+id/clear_photo_button"
+            android:text="@string/lolcat_clear_photo"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:singleLine="true"
+            />
+
+    </LinearLayout>
+
+</LinearLayout>

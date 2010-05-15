@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<string name="hello">CLiCkin 2 Da BeaT</string>
+<string name="app_name">CLiCkin 2 Da BeaT</string>
+
+<string name="c2bCreatorMessage">Create stage from video</string>
+<string name="NEED_SD_CARD">Unable to create stage. Please insert an SD card with at least a few kb of available space.</string>
+<string name="STAGE_CREATED">Stage created!</string>
+
+<string name="PROCESSING">Processing, please wait</string>
+<string name="BEATS_SET">Beats set successfully!</string>
+<string name="NO_BEATS">No beats for</string>
+<string name="ONE_PASS">Use 1-pass method to set the beats</string>
+<string name="TWO_PASS">Use 2-pass method to set the beats (more accurate beat synchronization)</string>
+<string name="CHOOSE_STAGE">Choose your stage</string>
+<string name="EDIT_WARNING">Editing the beats for this stage will erase the beats that have already been set - you cannot undo this.</string>
+<string name="EDIT_CONFIRMATION">Sure you want to edit this stage?</string>
+<string name="TWO_PASS_INFO">For the first pass of setting the beats, focus on tapping to the beat. Try to get every beat in the song. Where you tap doesn't matter; you will set the actual target locations on the next pass.</string>
+<string name="ONE_PASS_INFO">Tap the screen when and where you want the beat targets to appear.</string>
+<string name="NO_STAGES_INFO">You don't seem to have any stages on your SD card. You should go leech some. Even better, contribute to society by making some yourself. Just pick a video from http://m.youtube.com in the Browser, set the beats, and share your creation.  :D</string>
+<string name="NO_STAGES_FOUND">No stages found.   :(</string>
+<string name="SHUT_UP">Shut up, I want to play. NOW!</string>
+<string name="ILL_GET_STAGES">Ok, fine. I'll go get some stages.</string>
+<string name="BEAT_SETTING_INFO">Information on setting the beats</string>
+
+<string name="STILL_BUSY">Sorry, but I'm still trying to process the beats. @_@' Please wait.</string>
+<string name="WELCOME">Welcome to CLiCkin' 2 Da BeaT (Beta)</string>
+
+<string name="BETA_MESSAGE">This is an open source rhythm/music game. It is in beta right now and polishing is needed, but I am releasing early and often to give YOU the power to help shape this game. Please check back often for updates. I am happy to take feedback and code patches. Enjoy the game! :D   -Charles</string>
+<string name="VISIT_WEBSITE">Visit website</string>
+<string name="START_GAME">Start playing</string>
+<string name="QUIT">Quit</string>
+
+<string name="MOAR_STAGES">Gimme moar stages!</string>
+<string name="UPDATE_AVAILABLE">Update available</string>
+<string name="UPDATE_MESSAGE">Would you like to update CLiCkin 2 Da BeaT?</string>
+</resources>

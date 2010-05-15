@@ -1,0 +1,64 @@
+10
+
+dir
+168
+http://apps-for-android.googlecode.com/svn/trunk/Photostream/res
+http://apps-for-android.googlecode.com/svn
+
+
+
+2008-10-20T22:27:37.810088Z
+103
+romainguy@google.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4c97771b-2a47-0410-a901-cdf36a16b7d0
+
+values
+dir
+
+xml
+dir
+
+values-port
+dir
+
+drawable
+dir
+
+drawable-port
+dir
+
+anim
+dir
+
+menu
+dir
+
+raw
+dir
+
+values-land
+dir
+
+drawable-land
+dir
+
+layout
+dir
+
+color
+dir
+

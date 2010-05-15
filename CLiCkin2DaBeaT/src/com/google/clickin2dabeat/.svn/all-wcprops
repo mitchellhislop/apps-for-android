@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/143/trunk/CLiCkin2DaBeaT/src/com/google/clickin2dabeat
+END
+GameView.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/143/trunk/CLiCkin2DaBeaT/src/com/google/clickin2dabeat/GameView.java
+END
+C2B.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/142/trunk/CLiCkin2DaBeaT/src/com/google/clickin2dabeat/C2B.java
+END
+Target.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/81/trunk/CLiCkin2DaBeaT/src/com/google/clickin2dabeat/Target.java
+END
+UpdateChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/142/trunk/CLiCkin2DaBeaT/src/com/google/clickin2dabeat/UpdateChecker.java
+END
+BeatTimingsAdjuster.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/81/trunk/CLiCkin2DaBeaT/src/com/google/clickin2dabeat/BeatTimingsAdjuster.java
+END
+CreateC2BFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/81/trunk/CLiCkin2DaBeaT/src/com/google/clickin2dabeat/CreateC2BFile.java
+END
+Unzipper.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/133/trunk/CLiCkin2DaBeaT/src/com/google/clickin2dabeat/Unzipper.java
+END
+DownloadC2BFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/133/trunk/CLiCkin2DaBeaT/src/com/google/clickin2dabeat/DownloadC2BFile.java
+END

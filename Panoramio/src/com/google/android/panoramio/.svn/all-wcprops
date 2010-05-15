@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/104/trunk/Panoramio/src/com/google/android/panoramio
+END
+ImageAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/62/trunk/Panoramio/src/com/google/android/panoramio/ImageAdapter.java
+END
+PanoramioItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/62/trunk/Panoramio/src/com/google/android/panoramio/PanoramioItem.java
+END
+Panoramio.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/104/trunk/Panoramio/src/com/google/android/panoramio/Panoramio.java
+END
+ViewMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/62/trunk/Panoramio/src/com/google/android/panoramio/ViewMap.java
+END
+ViewImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/64/trunk/Panoramio/src/com/google/android/panoramio/ViewImage.java
+END
+BitmapUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/62/trunk/Panoramio/src/com/google/android/panoramio/BitmapUtils.java
+END
+ImageManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/62/trunk/Panoramio/src/com/google/android/panoramio/ImageManager.java
+END
+ImageList.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/62/trunk/Panoramio/src/com/google/android/panoramio/ImageList.java
+END

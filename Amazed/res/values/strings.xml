@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/*
+ * Copyright (C) 2008 Jason Tomlinson.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+ -->
+ 
+<resources>
+    <string name="app_name">Amazed</string>
+    <array name="gameStrings">
+        <item>Lives</item>
+        <item>Level</item>
+   	    <item>Time</item>
+        <item>TAP SCREEN TO START</item>
+        <item>GAME COMPLETE</item>
+        <item>GAME OVER</item>
+        <item>TOTAL TIME</item>
+        <item>YOU COMPLETED</item>
+        <item>LEVELS, KEEP TRYING</item>
+        <item>TOUCH SCREEN TO RESTART</item>
+        <item>PLEASE ROTATE BACK TO PORTRAIT MODE</item>
+    </array>
+</resources>

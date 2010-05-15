@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/88/trunk/Photostream/res/values
+END
+colors.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/14/trunk/Photostream/res/values/colors.xml
+END
+theme.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/88/trunk/Photostream/res/values/theme.xml
+END
+shared_styles.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14/trunk/Photostream/res/values/shared_styles.xml
+END
+strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/88/trunk/Photostream/res/values/strings.xml
+END
+attrs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/14/trunk/Photostream/res/values/attrs.xml
+END

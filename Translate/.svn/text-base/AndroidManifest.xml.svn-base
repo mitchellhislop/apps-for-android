@@ -1,0 +1,35 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="com.beust.android.translate"
+      android:versionName="1.6"
+      android:versionCode="16"
+  >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+
+    <application android:label="Translate" 
+        android:icon="@drawable/babelfish">
+
+        <activity android:name="TranslateActivity" android:label="Translate">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <service android:name="TranslateService" android:label="Translate">
+            <intent-filter>
+                <action android:name="android.intent.action.GET_CONTENT" />
+                <action android:name="android.intent.action.PICK" />
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.ALTERNATIVE" />
+            </intent-filter>
+        </service>
+
+        <activity android:name="HistoryActivity" android:label="History">
+        </activity>
+    </application>
+</manifest>
+

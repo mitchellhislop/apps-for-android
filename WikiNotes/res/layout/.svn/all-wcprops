@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/71/trunk/WikiNotes/res/layout
+END
+main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/71/trunk/WikiNotes/res/layout/main.xml
+END
+wiki_search.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/WikiNotes/res/layout/wiki_search.xml
+END
+wiki_note_edit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/15/trunk/WikiNotes/res/layout/wiki_note_edit.xml
+END

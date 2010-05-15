@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/152/trunk/DivideAndConquer/src/com/google/android/divideandconquer
+END
+AnimatingLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/149/trunk/DivideAndConquer/src/com/google/android/divideandconquer/AnimatingLine.java
+END
+DivideAndConquerView.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/152/trunk/DivideAndConquer/src/com/google/android/divideandconquer/DivideAndConquerView.java
+END
+Direction.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/40/trunk/DivideAndConquer/src/com/google/android/divideandconquer/Direction.java
+END
+BallEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/152/trunk/DivideAndConquer/src/com/google/android/divideandconquer/BallEngine.java
+END
+NewGameCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/40/trunk/DivideAndConquer/src/com/google/android/divideandconquer/NewGameCallback.java
+END
+DivideAndConquerActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/152/trunk/DivideAndConquer/src/com/google/android/divideandconquer/DivideAndConquerActivity.java
+END
+Preferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/40/trunk/DivideAndConquer/src/com/google/android/divideandconquer/Preferences.java
+END
+R.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/152/trunk/DivideAndConquer/src/com/google/android/divideandconquer/R.java
+END
+GameOverDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/40/trunk/DivideAndConquer/src/com/google/android/divideandconquer/GameOverDialog.java
+END
+Shape2d.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/134/trunk/DivideAndConquer/src/com/google/android/divideandconquer/Shape2d.java
+END
+Ball.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/152/trunk/DivideAndConquer/src/com/google/android/divideandconquer/Ball.java
+END
+DirectionPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/40/trunk/DivideAndConquer/src/com/google/android/divideandconquer/DirectionPoint.java
+END
+WelcomeDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/40/trunk/DivideAndConquer/src/com/google/android/divideandconquer/WelcomeDialog.java
+END
+BallRegion.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/152/trunk/DivideAndConquer/src/com/google/android/divideandconquer/BallRegion.java
+END

@@ -1,0 +1,11 @@
+
+ALIAS=cbeust
+APP=TranslateActivity-unsigned.apk
+
+# keytool -genkey -v -keystore ~/.my-release-key.keystore -alias ${ALIAS} -keyalg RSA -validity 9500
+
+jarsigner -verbose -keystore ~/.my-release-key.keystore bin/${APP} ${ALIAS}
+
+# mv bin/TranslateActivity-unsigned.apk bin/TranslateActivity-signed.apk
+jarsigner -verify bin/${APP}
+

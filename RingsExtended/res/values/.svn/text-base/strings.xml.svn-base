@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    
+    <string name="appName">Rings Extended</string>
+    
+    <string name="silentLabel">Silent</string>
+    <string name="defaultRingtoneLabel">Default ringtone</string>
+    <string name="existingRingtoneLabel">Current ringtone</string>
+    
+    <string name="musicPickerName">Music</string>
+    <string name="musicPickerTitle">Music - Select track</string>
+    
+    <string name="loading">Loading</string>
+    <string name="noMusic">No music files or\nSD card not present.</string>
+    
+    <string name="sortByTrack">Tracks</string>
+    <string name="sortByAlbum">Albums</string>
+    <string name="sortByArtist">Artists</string>
+    
+    <string name="unknownArtistName">(Unknown Artist)</string>
+    <string name="unknownAlbumName">(Unknown Album)</string>
+    
+    <!--
+    This string is used as the format string in a String.format call,
+    and 5 additional arguments are available for printing:
+    1 - hours
+    2 - minutes
+    3 - minutes%60
+    4 - seconds
+    5 - second%60
+    -->
+    <string name="durationformat"><xliff:g id="format">%2$d:%5$02d</xliff:g></string>
+    
+    <!-- Characters that are used for each of the fast-scroll widget that skips directly
+         to names starting with this letter.  If your language sorts differently than this,
+         please rearrange the alphabet here to be whatever is correct (e.g. Norwegian
+         has the three additional letters at the end). -->
+    <string name="alphabet">\u0020ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+</resources>

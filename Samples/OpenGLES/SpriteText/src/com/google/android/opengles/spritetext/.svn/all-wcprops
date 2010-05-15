@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/51/trunk/Samples/OpenGLES/SpriteText/src/com/google/android/opengles/spritetext
+END
+LabelMaker.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/35/trunk/Samples/OpenGLES/SpriteText/src/com/google/android/opengles/spritetext/LabelMaker.java
+END
+SpriteTextRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/35/trunk/Samples/OpenGLES/SpriteText/src/com/google/android/opengles/spritetext/SpriteTextRenderer.java
+END
+Grid.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/35/trunk/Samples/OpenGLES/SpriteText/src/com/google/android/opengles/spritetext/Grid.java
+END
+Projector.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/35/trunk/Samples/OpenGLES/SpriteText/src/com/google/android/opengles/spritetext/Projector.java
+END
+SpriteTextActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/35/trunk/Samples/OpenGLES/SpriteText/src/com/google/android/opengles/spritetext/SpriteTextActivity.java
+END
+MatrixGrabber.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/35/trunk/Samples/OpenGLES/SpriteText/src/com/google/android/opengles/spritetext/MatrixGrabber.java
+END
+NumericSprite.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/35/trunk/Samples/OpenGLES/SpriteText/src/com/google/android/opengles/spritetext/NumericSprite.java
+END
+MatrixStack.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/51/trunk/Samples/OpenGLES/SpriteText/src/com/google/android/opengles/spritetext/MatrixStack.java
+END
+MatrixTrackingGL.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/35/trunk/Samples/OpenGLES/SpriteText/src/com/google/android/opengles/spritetext/MatrixTrackingGL.java
+END
+GLView.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/41/trunk/Samples/OpenGLES/SpriteText/src/com/google/android/opengles/spritetext/GLView.java
+END

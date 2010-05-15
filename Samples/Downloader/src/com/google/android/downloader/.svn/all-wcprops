@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/108/trunk/Samples/Downloader/src/com/google/android/downloader
+END
+PreconditionActivityHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/30/trunk/Samples/Downloader/src/com/google/android/downloader/PreconditionActivityHelper.java
+END
+DownloaderActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/108/trunk/Samples/Downloader/src/com/google/android/downloader/DownloaderActivity.java
+END
+DownloaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/31/trunk/Samples/Downloader/src/com/google/android/downloader/DownloaderTest.java
+END

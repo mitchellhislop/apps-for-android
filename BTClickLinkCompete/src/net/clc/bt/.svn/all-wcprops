@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/168/trunk/BTClickLinkCompete/src/net/clc/bt
+END
+Connection.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/159/trunk/BTClickLinkCompete/src/net/clc/bt/Connection.java
+END
+ServerListActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/159/trunk/BTClickLinkCompete/src/net/clc/bt/ServerListActivity.java
+END
+ConnectionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/159/trunk/BTClickLinkCompete/src/net/clc/bt/ConnectionService.java
+END
+IConnection.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/159/trunk/BTClickLinkCompete/src/net/clc/bt/IConnection.aidl
+END
+MultiScreenVideo.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/168/trunk/BTClickLinkCompete/src/net/clc/bt/MultiScreenVideo.java
+END
+StartDiscoverableModeActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/159/trunk/BTClickLinkCompete/src/net/clc/bt/StartDiscoverableModeActivity.java
+END
+ConfigActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/168/trunk/BTClickLinkCompete/src/net/clc/bt/ConfigActivity.java
+END
+IConnectionCallback.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/159/trunk/BTClickLinkCompete/src/net/clc/bt/IConnectionCallback.aidl
+END
+AirHockey.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/159/trunk/BTClickLinkCompete/src/net/clc/bt/AirHockey.java
+END
+Demo_Ball.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/159/trunk/BTClickLinkCompete/src/net/clc/bt/Demo_Ball.java
+END
+Demo_Multiscreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/159/trunk/BTClickLinkCompete/src/net/clc/bt/Demo_Multiscreen.java
+END

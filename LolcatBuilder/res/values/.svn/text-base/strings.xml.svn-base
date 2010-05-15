@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/*
+ * Copyright (c) 2008 Google Inc.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+-->
+
+<resources>
+    <!-- lolcat_activity.xml / LolcatActivity.java -->
+    <string name="lolcat_pick">Pick photo</string>
+    <string name="lolcat_nothing_picked">No photo picked!</string>
+    <string name="lolcat_clear_caption">Clear captions</string>
+    <string name="lolcat_clear_photo">Clear photo</string>
+    <string name="lolcat_add_captions">Add captions</string>
+    <string name="lolcat_change_captions">Change captions</string>
+    <string name="lolcat_save">Save &amp; share</string>
+    <string name="lolcat_caption_dialog_title">Captions</string>
+    <string name="lolcat_caption_dialog_top_label">Top:</string>
+    <string name="lolcat_caption_dialog_bottom_label">Bottom:</string>
+    <string name="lolcat_caption_dialog_ok">OK</string>
+    <string name="lolcat_caption_dialog_cancel">Cancel</string>
+    <string name="lolcat_saving">Saving...</string>
+    <string name="lolcat_save_failed">Couldn't save photo</string>
+    <string name="lolcat_scan_failed">Couldn't scan photo on SD card</string>
+    <string name="lolcat_share_failed">Couldn't share photo</string>
+    <string name="lolcat_scanning">Scanning...</string>
+    <string name="lolcat_sendImage_label">Share picture via</string>
+    <string name="lolcat_save_succeeded_dialog_title">Image saved!</string>
+    <string name="lolcat_save_succeeded_dialog_body_format">"Lolcat image successfully saved:\n  Filename: %s\n  Uri: %s"</string>
+    <string name="lolcat_save_succeeded_dialog_view">View in gallery</string>
+    <string name="lolcat_save_succeeded_dialog_share">Share</string>
+    <string name="lolcat_save_succeeded_dialog_cancel">Cancel</string>
+</resources>

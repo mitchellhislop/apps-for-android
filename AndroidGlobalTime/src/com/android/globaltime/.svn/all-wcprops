@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/140/trunk/AndroidGlobalTime/src/com/android/globaltime
+END
+GlobalTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/11/trunk/AndroidGlobalTime/src/com/android/globaltime/GlobalTime.java
+END
+Texture.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/11/trunk/AndroidGlobalTime/src/com/android/globaltime/Texture.java
+END
+Shape.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/11/trunk/AndroidGlobalTime/src/com/android/globaltime/Shape.java
+END
+PointCloud.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/11/trunk/AndroidGlobalTime/src/com/android/globaltime/PointCloud.java
+END
+R.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/11/trunk/AndroidGlobalTime/src/com/android/globaltime/R.java
+END
+Annulus.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/11/trunk/AndroidGlobalTime/src/com/android/globaltime/Annulus.java
+END
+Sphere.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/11/trunk/AndroidGlobalTime/src/com/android/globaltime/Sphere.java
+END
+LatLongSphere.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/11/trunk/AndroidGlobalTime/src/com/android/globaltime/LatLongSphere.java
+END
+City.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/140/trunk/AndroidGlobalTime/src/com/android/globaltime/City.java
+END
+Clock.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/11/trunk/AndroidGlobalTime/src/com/android/globaltime/Clock.java
+END
+GLView.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/11/trunk/AndroidGlobalTime/src/com/android/globaltime/GLView.java
+END

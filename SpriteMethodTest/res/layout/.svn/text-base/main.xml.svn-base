@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout
+android:id="@+id/widget39"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:orientation="vertical"
+xmlns:android="http://schemas.android.com/apk/res/android"
+>
+<TableRow
+android:id="@+id/widget40"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+android:layout_marginTop="20px"
+android:layout_marginBottom="20px"
+android:orientation="horizontal"
+>
+<TextView
+android:id="@+id/widget38"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:layout_marginLeft="10px"
+android:layout_marginRight="10px"
+android:text="@string/SpriteTitle"
+android:layout_gravity="center_vertical"
+>
+</TextView>
+<EditText
+android:id="@+id/spriteCount"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="10"
+android:textSize="18sp"
+>
+</EditText>
+<CheckBox
+android:id="@+id/animateSprites"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="@string/AnimateTitle"
+android:layout_gravity="center_vertical"
+android:checked="true"
+>
+</CheckBox>
+</TableRow>
+<RadioGroup android:id="@+id/renderMethod">
+<RadioButton android:id="@+id/methodCanvas" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/CanvasTitle"></RadioButton>
+<RadioButton android:id="@+id/methodOpenGL" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/OpenGLTitle"></RadioButton>
+</RadioGroup>
+
+<RadioGroup
+android:paddingLeft = "50px"
+android:id="@+id/GLSettings">
+<RadioButton android:id="@+id/settingVerts" android:layout_width="wrap_content" android:text="@string/UseVertsTitle" android:layout_height="wrap_content"></RadioButton>
+<RadioButton android:id="@+id/settingDrawTexture" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/UseDrawTextureTitle"></RadioButton>
+<RadioButton android:id="@+id/settingVBO" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/UseVBOTitle"></RadioButton>
+</RadioGroup>
+
+<Button
+android:id="@+id/runTest"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="@string/RunTestTitle"
+>
+</Button>
+
+</TableLayout>

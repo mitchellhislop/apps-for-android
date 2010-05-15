@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/105/trunk/Photostream/src/com/google/android/photostream
+END
+ViewPhotoActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/79/trunk/Photostream/src/com/google/android/photostream/ViewPhotoActivity.java
+END
+R.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/105/trunk/Photostream/src/com/google/android/photostream/R.java
+END
+CheckUpdateService.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/73/trunk/Photostream/src/com/google/android/photostream/CheckUpdateService.java
+END
+UserTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/78/trunk/Photostream/src/com/google/android/photostream/UserTask.java
+END
+Preferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/54/trunk/Photostream/src/com/google/android/photostream/Preferences.java
+END
+UserDatabase.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/53/trunk/Photostream/src/com/google/android/photostream/UserDatabase.java
+END
+Flickr.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/72/trunk/Photostream/src/com/google/android/photostream/Flickr.java
+END
+SettingsActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/54/trunk/Photostream/src/com/google/android/photostream/SettingsActivity.java
+END
+ImageUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14/trunk/Photostream/src/com/google/android/photostream/ImageUtilities.java
+END
+PhotostreamActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/79/trunk/Photostream/src/com/google/android/photostream/PhotostreamActivity.java
+END
+GridLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/72/trunk/Photostream/src/com/google/android/photostream/GridLayout.java
+END
+LoginActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/103/trunk/Photostream/src/com/google/android/photostream/LoginActivity.java
+END
+Eula.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/103/trunk/Photostream/src/com/google/android/photostream/Eula.java
+END
+BootReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/53/trunk/Photostream/src/com/google/android/photostream/BootReceiver.java
+END
+FastBitmapDrawable.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/53/trunk/Photostream/src/com/google/android/photostream/FastBitmapDrawable.java
+END

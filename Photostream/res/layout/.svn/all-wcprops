@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/88/trunk/Photostream/res/layout
+END
+screen_photostream.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14/trunk/Photostream/res/layout/screen_photostream.xml
+END
+screen_login.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/53/trunk/Photostream/res/layout/screen_login.xml
+END
+list_item_user.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/53/trunk/Photostream/res/layout/list_item_user.xml
+END
+screen_photo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14/trunk/Photostream/res/layout/screen_photo.xml
+END
+shared_progress.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/88/trunk/Photostream/res/layout/shared_progress.xml
+END
+grid_item_photo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14/trunk/Photostream/res/layout/grid_item_photo.xml
+END

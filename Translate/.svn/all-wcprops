@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/136/trunk/Translate
+END
+sign
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/121/trunk/Translate/sign
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/120/trunk/Translate/TODO
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/131/trunk/Translate/AndroidManifest.xml
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/129/trunk/Translate/CHANGELOG
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/65/trunk/Translate/README
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/107/trunk/Translate/build.xml
+END
